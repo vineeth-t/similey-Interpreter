@@ -154,7 +154,7 @@ export default function App() {
       </div>
       <footer className="footer">
         <div className="footer-container">
-          <span> Smiley - New way of communication ❤️</span>
+          <span> Smiley - New way of communication</span>
         </div>
         <small> © | 2020 | pvr</small>
       </footer>
